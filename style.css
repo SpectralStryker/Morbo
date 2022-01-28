@@ -1,5 +1,7 @@
 body {
     background-image: url(https://github.com/SpectralStryker/Morbo/blob/main/Gavyn/Finishering.png?raw=true);
     background-repeat: no-repeat;
-    background-attachment: fixed,
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain;
      }
